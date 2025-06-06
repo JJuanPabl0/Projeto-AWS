@@ -1,5 +1,7 @@
 # 🧠 Relatório de Projeto
 
+![alt text](Img/ImgWtt.jpeg)
+
 ## *Reconhecimento de Objetos com Amazon Rekognition e Python*
 
 ---
