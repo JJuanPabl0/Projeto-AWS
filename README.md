@@ -1,9 +1,11 @@
-# feito por:
-José Henrique Bernardes Vieira
-Juan Pablo Silvério silva
-David Francisco Vieira
-Vinicius Pires De Souza
-Luis Henrique Sampaio
+## Feito por:
+
+- José Henrique Bernardes Vieira  
+- Juan Pablo Silvério Silva  
+- David Francisco Vieira  
+- Vinicius Pires De Souza  
+- Luis Henrique Sampaio
+
 
 # 🧠 Relatório de Projeto
 
