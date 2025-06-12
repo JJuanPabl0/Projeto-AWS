@@ -1,3 +1,10 @@
+# feito por:
+José Henrique Bernardes Vieira
+Juan Pablo Silvério silva
+David Francisco Vieira
+Vinicius Pires De Souza
+Luis Henrique Sampaio
+
 # 🧠 Relatório de Projeto
 
 ![alt text](Img/ImgWtt.jpeg)
